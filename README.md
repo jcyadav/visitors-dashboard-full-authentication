@@ -26,10 +26,6 @@ http://127.0.0.1:8000
 
 ---------------------------------------------------------
 
-Q4 & Q5
-
-Copy question4.php and question5.php into the XAMPP htdocs folder and run them directly.
-
-http://localhost/question4.php
-
-http://localhost/question5.php
+<img width="959" height="474" alt="pivote_table_data" src="https://github.com/user-attachments/assets/5be2825c-c0ad-404d-af3c-354e96ddcc04" />
+<img width="959" height="475" alt="login_01" src="https://github.com/user-attachments/assets/055e010d-19e5-4187-b399-165548b10f6a" />
+<img width="956" height="470" alt="visitor_dashboard" src="https://github.com/user-attachments/assets/fb59ffa7-d385-4f34-81a0-9eca61b5a84a" />
